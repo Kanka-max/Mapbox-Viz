@@ -28,3 +28,4 @@ Updated monthly/quartely/annually.
 
 **Use Case:** Transportation analysis with day-of-week and hour-of-day patterns.
 
+**A Note on Privacy**. Mobile location data is in aggregated form only and is not associated with any personally identifying information, including advertising IDs, names, permanent IDs, email addresses, IP addresses, or phone numbers. See [Privacy Policy](https://www.mapbox.com/legal/privacy/) and [Telemetry](https://www.mapbox.com/telemetry/#telemetry) for more info.
